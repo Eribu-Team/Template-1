@@ -1,6 +1,6 @@
-# d-project
+# First demo tempate for Shop
 
-> d-project description
+> description
 
 ## Build Setup
 
@@ -19,4 +19,3 @@ $ npm run start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
